@@ -1,0 +1,9 @@
+{
+	"name": "SHADF12024",
+	"location": "australiasoutheast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "31d6c9e9-061c-4733-90ba-800ff44199eb",
+		"tenantId": "9a96ed75-ccb2-4c70-8638-12608fbb5862"
+	}
+}
